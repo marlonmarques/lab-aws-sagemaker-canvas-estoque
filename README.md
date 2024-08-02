@@ -1,3 +1,13 @@
+#para completar o desafio
+
+Quando fui criar a conta aws usando meu email de costume, tive dificuldade porque meu e-mail estava em uso em uma conta da amazon para compras e serviço de video, tive que colocar outro email para concluir o processo, depois foi tranquilo.
+
+para testar usei um dataset gerado pelo um script meu so para ver a diferença que ficaria os que foram apresentados no curso.
+
+Depois foi só criar o dominio entrar no canvas e criar novo dataset e fazer o upload do arquivo gerado pelo script e esperar aprender depois ver as metricas.
+
+
+
 # 📊 Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
 Bem-vindo ao desafio de projeto "Previsão de Estoque Inteligente na AWS com SageMaker Canvas. Neste Lab DIO, você aprenderá a usar o SageMaker Canvas para criar previsões de estoque baseadas em Machine Learning (ML). Siga os passos abaixo para completar o desafio!
